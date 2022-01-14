@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Aziz from './Aziz';
 import Youssef from './Youssef';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         </a>
       </header>
       <Youssef />
+      <Aziz />
     </div>
   );
 }
